@@ -8,6 +8,7 @@ Complete SaaS AI application for content and media generation.
 
 - **AI article & blog writing**
 - **AI image generation**
+- **Object and Background removal**
 - **Content enhancement tools**
 - **Personalized user dashboard**
 

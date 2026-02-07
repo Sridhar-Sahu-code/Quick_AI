@@ -1,4 +1,4 @@
-# Quick_AI ⚡
+# Quick.AI ⚡
 
 Complete SaaS AI application for content and media generation.
 
@@ -30,10 +30,10 @@ https://quick-ai-frontend.vercel.app/
 
 - **Frontend:** React.js, Tailwind CSS  
 - **Backend:** Node.js, Express  
-- **Database:** (e.g., PostgreSQL / Mongo) — mention whichever you use  
+- **Database:** PostgreSQL (Neon DB)
 - **Authentication:** Clerk  
-- **AI Models:** OpenAI / other AI APIs  
-- **Deployment:** Vercel / Render / Railway *(add yours)*
+- **AI Models:** OpenAI , GeminiAI
+- **Deployment:** Vercel 
 
 ## 🛠️ Installation
 

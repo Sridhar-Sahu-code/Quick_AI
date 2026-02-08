@@ -17,7 +17,7 @@ This project uses a React frontend and Node/Express backend.
 ## 🚀 Live Demo
 
 🔗 *(Add your deployed frontend URL here, e.g.)*  
-https://quick-ai-frontend.vercel.app/
+https://quick-ai-liart-nu.vercel.app/
 
 ## 💡 Features
 
